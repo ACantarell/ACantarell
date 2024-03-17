@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3>💻 Full Stack Student | 🛸 Buenos Aires , AR</h3>
+<h3>  🛸 Buenos Aires , AR</h3>
 </div>
 
 <br>
