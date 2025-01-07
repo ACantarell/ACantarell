@@ -18,8 +18,8 @@ const Profile = () => {
   return {
       name: "Amadeo",
       nick: "Negro",
-      gender: "Male"
-      hobbies: ["Animes", "Music", "Game", "Swing", "Gym"],
+      gender: "Male",
+      hobbies: ["Music", "Game", "Swing", "Gym"],
   }
 };
 
