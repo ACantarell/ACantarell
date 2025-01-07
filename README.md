@@ -19,7 +19,7 @@ const Profile = () => {
       name: "Amadeo",
       nick: "Negro",
       gender: "Male",
-      hobbies: ["Music", "Game", "Swing", "Gym"],
+      hobbies: ["Music", "Game", "Swing", "Gym"]
   }
 };
 
