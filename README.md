@@ -1,29 +1,18 @@
-<div align="center">
-   
-   <h1>
-      Hi there, I'm Amadeo J. Cantarell <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-   </h1> 
-</div>
-
-<div align="center">
-<h3>  🛸 Buenos Aires , AR</h3>
-</div>
-
-<br>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-
-```tsx
-const Profile = () => {
-  return {
-      name: "Amadeo",
-      nick: "Negro",
-      gender: "Male",
-      hobbies: ["Music", "Game", "Swing", "Gym"]
-  }
-};
-
-export default Profile;
-```
+# 💫 About Me:
+# 👋 ¡Hola! Soy Amadeo<br><br>### 🧪 QA Analyst | Automatización con Playwright | Calidad de Software<br><br>Soy Analista QA con experiencia en pruebas funcionales, regresiones y automatización sobre aplicaciones web modernas.  <br>Trabajo con un enfoque crítico, orientado a la prevención de defectos y a la mejora continua de los procesos de testing dentro de equipos ágiles.<br><br>---<br><br>## 🚀 Lo que hago<br><br>- Diseño y ejecución de **casos de prueba manuales**  <br>- Automatización de pruebas E2E con **Playwright + TypeScript**  <br>- Pruebas de APIs REST (Postman / Insomnia)  <br>- Pruebas de performance con **JMeter**  <br>- Reporte y seguimiento de bugs en GitLab / Jira  <br>- Análisis de logs y métricas para detección temprana de fallas  <br>- Participación activa en regresiones y smoke tests<br><br>---<br><br>## 🛠 Stack<br><br>**Automatización**<br>- Playwright (TypeScript)<br>- Cypress<br>- Frameworks con Page Object Model<br>- Fixtures y manejo de datos<br><br>**Testing**<br>- Pruebas funcionales<br>- Regresión<br>- Smoke<br>- API Testing<br>- Performance Testing<br><br>**Herramientas**<br>- Git / GitLab  <br>- Postman / Insomnia  <br>- JMeter  <br>- Kibana / Apigee  <br>- CI/CD básico<br><br>---<br><br>## 🎯 Mi enfoque<br><br>- No doy nada por sentado: prefiero preguntar antes que asumir.  <br>- Priorizo escenarios críticos y de alto impacto.  <br>- Me gusta que las pruebas sean claras, repetibles y mantenibles.  <br>- Creo en la calidad como responsabilidad de todo el equipo.<br><br>---<br><br>## 📌 Ejemplo de lo que vas a encontrar acá<br><br>- Suites de pruebas en Playwright  <br>- Estructuras de tests con buenas prácticas  <br>- Helpers reutiliz<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itocanta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amadeo-cantarell/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amadeocantarell@gmail.com) 
+
+# 💻 Tech Stack:
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ACantarell&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ACantarell&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACantarell&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ACantarell&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
