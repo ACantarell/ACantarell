@@ -1,4 +1,4 @@
-# 🚀 ¡Ey! Soy Amadeo
+# 🚀 Soy Amadeo
 
 ### 🧪 QA Analyst | QA Automation | Playwright Lover
 
