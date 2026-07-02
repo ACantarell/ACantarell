@@ -83,13 +83,6 @@ Trabajo asegurando que el software no solo funcione… sino que **funcione bien*
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ACantarell&theme=transparent&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ACantarell&theme=transparent&hide_border=true)
 
 ---
 
